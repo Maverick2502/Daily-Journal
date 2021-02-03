@@ -9,3 +9,4 @@ Daily Journal (Node.js, EJS, Express.js, _Lodash)
 
 # Screenshots
 ![](screenshots/Blog.jpg)
+![](screenshots/Compose.jpg)
